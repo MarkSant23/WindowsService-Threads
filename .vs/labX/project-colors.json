@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec976e30-ee07-4c66-a26b-1948fed8d520": {
+      "ProjectGuid": "ec976e30-ee07-4c66-a26b-1948fed8d520",
+      "DisplayName": "labX",
+      "ColorIndex": 0
+    },
+    "f822465d-d5a6-456b-b9f8-f478ceac4984": {
+      "ProjectGuid": "f822465d-d5a6-456b-b9f8-f478ceac4984",
+      "DisplayName": "WindowsService1",
+      "ColorIndex": 1
+    },
+    "3dac11ae-e199-4e9a-9c18-3addecaab96c": {
+      "ProjectGuid": "3dac11ae-e199-4e9a-9c18-3addecaab96c",
+      "DisplayName": "EventLog",
+      "ColorIndex": 2
+    },
+    "a1e18e04-b4be-468b-a28f-c3c105447c1b": {
+      "ProjectGuid": "a1e18e04-b4be-468b-a28f-c3c105447c1b",
+      "DisplayName": "Eventlog",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

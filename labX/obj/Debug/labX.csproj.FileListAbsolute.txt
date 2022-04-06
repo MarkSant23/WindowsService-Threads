@@ -1,0 +1,11 @@
+D:\dotnet-lab\labX\labX\bin\Debug\labX.exe.config
+D:\dotnet-lab\labX\labX\bin\Debug\labX.exe
+D:\dotnet-lab\labX\labX\bin\Debug\labX.pdb
+D:\dotnet-lab\labX\labX\obj\Debug\labX.csproj.AssemblyReference.cache
+D:\dotnet-lab\labX\labX\obj\Debug\labX.csproj.SuggestedBindingRedirects.cache
+D:\dotnet-lab\labX\labX\obj\Debug\labX.Form1.resources
+D:\dotnet-lab\labX\labX\obj\Debug\labX.Properties.Resources.resources
+D:\dotnet-lab\labX\labX\obj\Debug\labX.csproj.GenerateResource.cache
+D:\dotnet-lab\labX\labX\obj\Debug\labX.csproj.CoreCompileInputs.cache
+D:\dotnet-lab\labX\labX\obj\Debug\labX.exe
+D:\dotnet-lab\labX\labX\obj\Debug\labX.pdb

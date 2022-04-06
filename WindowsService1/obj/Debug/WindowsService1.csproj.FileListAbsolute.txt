@@ -1,0 +1,10 @@
+D:\dotnet-lab\labX\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\dotnet-lab\labX\WindowsService1\bin\Debug\WindowsService1.exe
+D:\dotnet-lab\labX\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.exe
+D:\dotnet-lab\labX\WindowsService1\obj\Debug\WindowsService1.pdb

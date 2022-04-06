@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labX", "labX\labX.csproj", "{EC976E30-EE07-4C66-A26B-1948FED8D520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService1", "WindowsService1\WindowsService1.csproj", "{F822465D-D5A6-456B-B9F8-F478CEAC4984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventlog", "Eventlog\Eventlog.csproj", "{A1E18E04-B4BE-468B-A28F-C3C105447C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC976E30-EE07-4C66-A26B-1948FED8D520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC976E30-EE07-4C66-A26B-1948FED8D520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC976E30-EE07-4C66-A26B-1948FED8D520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC976E30-EE07-4C66-A26B-1948FED8D520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F822465D-D5A6-456B-B9F8-F478CEAC4984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F822465D-D5A6-456B-B9F8-F478CEAC4984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F822465D-D5A6-456B-B9F8-F478CEAC4984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F822465D-D5A6-456B-B9F8-F478CEAC4984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E18E04-B4BE-468B-A28F-C3C105447C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E18E04-B4BE-468B-A28F-C3C105447C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E18E04-B4BE-468B-A28F-C3C105447C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E18E04-B4BE-468B-A28F-C3C105447C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8110B35-8D0E-49ED-9DF8-92972D1AA359}
+	EndGlobalSection
+EndGlobal
